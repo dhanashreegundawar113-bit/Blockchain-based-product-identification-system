@@ -1,0 +1,7 @@
+Django
+djangorestframework
+django-cors-headers
+web3
+python-dotenv
+qrcode
+Pillow
